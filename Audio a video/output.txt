@@ -1,0 +1,10 @@
+﻿python : Traceback (most recent call last):
+At line:1 char:1
++ python code\index.py 2>&1 | Out-File -FilePath output.txt -Encoding u ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "C:\Users\PC\Documents\Sin_TÝtulo\Audio a video\code\index.py", line 3, in <module>
+    from moviepy.editor import *
+ModuleNotFoundError: No module named 'moviepy.editor'
