@@ -12,7 +12,7 @@ IMAGE_SEARCH_URLS = [
     "https://via.placeholder.com/1280x720.png?text=Mapa+Antiguo",
     "https://via.placeholder.com/1280x720.png?text=Puerto+de+Palos"
 ]
-YOUTUBE_URL = "https://www.youtube.com/watch?v=VgbV3s_lcwU"
+YOUTUBE_URL = "https://www.youtube.com/watch?v=VgbV3s_lcwU&ab_channel=cultopedia"
 
 # === FUNCIÓN: DESCARGAR AUDIO DE YOUTUBE ===
 def download_audio(youtube_url, output_filename="audio.mp3"):

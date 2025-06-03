@@ -1,10 +1,20 @@
-﻿python : Traceback (most recent call last):
-At line:1 char:1
-+ python code\index.py 2>&1 | Out-File -FilePath output.txt -Encoding u ...
-+ ~~~~~~~~~~~~~~~~~~~~~~~~~
-    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
-    + FullyQualifiedErrorId : NativeCommandError
- 
-  File "C:\Users\PC\Documents\Sin_TÝtulo\Audio a video\code\index.py", line 3, in <module>
-    from moviepy.editor import *
-ModuleNotFoundError: No module named 'moviepy.editor'
+﻿[youtube] Extracting URL: https://www.youtube.com/watch?v=VgbV3s_lcwU&ab_channel=cultopedia
+Descargando audio de YouTube...
+[youtube] VgbV3s_lcwU: Downloading webpage
+[youtube] VgbV3s_lcwU: Downloading tv client config
+[youtube] VgbV3s_lcwU: Downloading tv player API JSON
+[youtube] VgbV3s_lcwU: Downloading ios player API JSON
+[youtube] VgbV3s_lcwU: Downloading m3u8 information
+[info] VgbV3s_lcwU: Downloading 1 format(s): 251
+[download] Destination: audio
+
+[download]   0.0% of   40.12MiB at  688.27KiB/s ETA 00:59
+[download]   0.0% of   40.12MiB at    1.59MiB/s ETA 00:25
+[download]   0.0% of   40.12MiB at    3.31MiB/s ETA 00:12
+[download]   0.0% of   40.12MiB at    6.15MiB/s ETA 00:06
+[download]   0.1% of   40.12MiB at    7.01MiB/s ETA 00:05
+[download]   0.2% of   40.12MiB at    7.42MiB/s ETA 00:05
+[download]   0.3% of   40.12MiB at   13.20MiB/s ETA 00:03
+[download]   0.6% of   40.12MiB at   21.12MiB/s ETA 00:01
+[download]   1.2% of   40.12MiB at   15.26MiB/s ETA 00:02
+[download]   2.5% of   40.12MiB at   26.75MiB/s ETA 00:01

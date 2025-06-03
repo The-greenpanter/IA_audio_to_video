@@ -1,0 +1,97 @@
+﻿[youtube] Extracting URL: https://www.youtube.com/watch?v=VgbV3s_lcwU&ab_channel=cultopedia
+Descargando audio de YouTube...
+[youtube] VgbV3s_lcwU: Downloading webpage
+[youtube] VgbV3s_lcwU: Downloading tv client config
+[youtube] VgbV3s_lcwU: Downloading tv player API JSON
+[youtube] VgbV3s_lcwU: Downloading ios player API JSON
+[youtube] VgbV3s_lcwU: Downloading m3u8 information
+[info] VgbV3s_lcwU: Downloading 1 format(s): 251
+[download] Destination: audio.mp3
+
+[download]   0.0% of   40.12MiB at  985.27KiB/s ETA 00:42
+[download]   0.0% of   40.12MiB at    1.92MiB/s ETA 00:20
+[download]   0.0% of   40.12MiB at    3.91MiB/s ETA 00:10
+[download]   0.0% of   40.12MiB at    6.99MiB/s ETA 00:05
+[download]   0.1% of   40.12MiB at    1.81MiB/s ETA 00:22
+[download]   0.2% of   40.12MiB at    3.10MiB/s ETA 00:12
+[download]   0.3% of   40.12MiB at    5.71MiB/s ETA 00:07
+[download]   0.6% of   40.12MiB at   10.54MiB/s ETA 00:03
+[download]   1.2% of   40.12MiB at   19.32MiB/s ETA 00:02
+[download]   2.5% of   40.12MiB at   32.25MiB/s ETA 00:01
+[download]   5.0% of   40.12MiB at   46.08MiB/s ETA 00:00
+[download]  10.0% of   40.12MiB at   40.51MiB/s ETA 00:00
+[download]  19.9% of   40.12MiB at   31.38MiB/s ETA 00:01
+[download]  23.9% of   40.12MiB at   30.42MiB/s ETA 00:01
+[download]  23.9% of   40.12MiB at  Unknown B/s ETA Unknown
+[download]  23.9% of   40.12MiB at  Unknown B/s ETA Unknown
+[download]  23.9% of   40.12MiB at  Unknown B/s ETA Unknown
+[download]  23.9% of   40.12MiB at  Unknown B/s ETA Unknown
+[download]  23.9% of   40.12MiB at   29.26MiB/s ETA 00:01  
+[download]  24.0% of   40.12MiB at   46.14MiB/s ETA 00:00
+[download]  24.2% of   40.12MiB at   71.89MiB/s ETA 00:00
+[download]  24.5% of   40.12MiB at   63.80MiB/s ETA 00:00
+[download]  25.1% of   40.12MiB at   18.59MiB/s ETA 00:01
+[download]  26.3% of   40.12MiB at   24.69MiB/s ETA 00:01
+[download]  28.8% of   40.12MiB at   36.52MiB/s ETA 00:00
+[download]  33.8% of   40.12MiB at   43.63MiB/s ETA 00:00
+[download]  43.8% of   40.12MiB at   49.30MiB/s ETA 00:00
+[download]  48.7% of   40.12MiB at   51.83MiB/s ETA 00:00
+[download]  48.7% of   40.12MiB at  Unknown B/s ETA Unknown
+[download]  48.7% of   40.12MiB at  Unknown B/s ETA Unknown
+[download]  48.7% of   40.12MiB at  Unknown B/s ETA Unknown
+[download]  48.7% of   40.12MiB at  Unknown B/s ETA Unknown
+[download]  48.7% of   40.12MiB at   25.87MiB/s ETA 00:00  
+[download]  48.8% of   40.12MiB at   39.74MiB/s ETA 00:00
+[download]  49.0% of   40.12MiB at   62.17MiB/s ETA 00:00
+[download]  49.3% of   40.12MiB at   88.87MiB/s ETA 00:00
+[download]  49.9% of   40.12MiB at   27.33MiB/s ETA 00:00
+[download]  51.1% of   40.12MiB at   40.06MiB/s ETA 00:00
+[download]  53.6% of   40.12MiB at   36.69MiB/s ETA 00:00
+[download]  58.6% of   40.12MiB at   32.86MiB/s ETA 00:00
+[download]  68.6% of   40.12MiB at   23.82MiB/s ETA 00:00
+[download]  73.2% of   40.12MiB at   27.25MiB/s ETA 00:00
+[download]  73.2% of   40.12MiB at  Unknown B/s ETA Unknown
+[download]  73.2% of   40.12MiB at  Unknown B/s ETA Unknown
+[download]  73.2% of   40.12MiB at  Unknown B/s ETA Unknown
+[download]  73.2% of   40.12MiB at  Unknown B/s ETA Unknown
+[download]  73.3% of   40.12MiB at   26.00MiB/s ETA 00:00  
+[download]  73.3% of   40.12MiB at   43.20MiB/s ETA 00:00
+[download]  73.5% of   40.12MiB at   72.91MiB/s ETA 00:00
+[download]  73.8% of   40.12MiB at  114.68MiB/s ETA 00:00
+[download]  74.4% of   40.12MiB at   37.15MiB/s ETA 00:00
+[download]  75.7% of   40.12MiB at   43.55MiB/s ETA 00:00
+[download]  78.2% of   40.12MiB at   45.84MiB/s ETA 00:00
+[download]  83.1% of   40.12MiB at   48.37MiB/s ETA 00:00
+[download]  93.1% of   40.12MiB at   42.17MiB/s ETA 00:00
+[download]  97.4% of   40.12MiB at   38.94MiB/s ETA 00:00
+[download]  97.4% of   40.12MiB at  Unknown B/s ETA Unknown
+[download]  97.5% of   40.12MiB at  Unknown B/s ETA Unknown
+[download]  97.5% of   40.12MiB at  Unknown B/s ETA Unknown
+[download]  97.5% of   40.12MiB at  Unknown B/s ETA Unknown
+[download]  97.5% of   40.12MiB at   23.92MiB/s ETA 00:00  
+[download]  97.6% of   40.12MiB at   38.12MiB/s ETA 00:00
+[download]  97.8% of   40.12MiB at   64.64MiB/s ETA 00:00
+[download]  98.1% of   40.12MiB at   99.59MiB/s ETA 00:00
+[download]  98.7% of   40.12MiB at   56.38MiB/s ETA 00:00
+[download]  99.9% of   40.12MiB at    6.66MiB/s ETA 00:00
+[download] 100.0% of   40.12MiB at    6.81MiB/s ETA 00:00
+[download] 100% of   40.12MiB in 00:00:01 at 28.59MiB/s  
+[ExtractAudio] Destination: audio.mp3.mp3
+Deleting original file audio.mp3 (pass -k to keep)
+python : Traceback (most recent call last):
+At line:1 char:1
++ python code\Try3.py 2>&1 | Out-File -FilePath output3.txt -Encoding u ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "C:\Users\PC\Documents\code\Audio a video\code\Try3.py", line 35, in <module>
+    download_audio(YOUTUBE_URL, AUDIO_FILE)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\PC\Documents\code\Audio a video\code\Try3.py", line 31, in download_audio
+    print("\u2705 Audio descargado.")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1008.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 0: character maps to <undefined>

@@ -7,7 +7,7 @@ import yt_dlp
 YOUTUBE_URL = "https://www.youtube.com/watch?v=VgbV3s_lcwU&ab_channel=cultopedia"  # Diana Uribe - Historia del Medio Oriente - Cap. 01 Origen de la Civilización
 
 # Paso 1: Descargar solo el audio del video
-def download_audio(youtube_url, output_filename="audio.mp3"):
+def download_audio(youtube_url, output_filename="audio"):
     print("Descargando audio de YouTube...")
     ydl_opts = {
         'format': 'bestaudio/best',

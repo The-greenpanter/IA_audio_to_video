@@ -2,6 +2,8 @@ import whisper
 import moviepy.editor as mp
 import requests
 import os
+import yt_dlp
+from PIL import Image
 
 # === CONFIGURACIÓN ===
 AUDIO_FILE = "audio.mp3"  # Cambia esto por tu archivo
