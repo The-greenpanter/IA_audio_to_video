@@ -1,4 +1,4 @@
-# Audio a Video con Imágenes Sincronizadas
+# Audio a Video con Imágenes Sincronizadas /Diana Uribe Historias del mundo
 
 Este proyecto descarga el audio de un video de YouTube, transcribe el contenido usando Whisper, y crea un video combinando imágenes con la pista de audio sincronizada.
 
