@@ -4,6 +4,29 @@ import requests
 import os
 import yt_dlp
 from PIL import Image
+import unicodedata
+
+def limpiar_texto(texto):
+    # Reemplaza caracteres mal codificados comunes
+    reemplazos = {
+        '¾': 'ó',
+        'ß': 'á',
+        '³': 'ó',
+        '¡': 'í',
+        'è': 'é',
+        '¥': 'ñ',
+        '¨': 'ú',
+    }
+    for k, v in reemplazos.items():
+        texto = texto.replace(k, v)
+    
+    # Elimina tildes excepto la ñ
+    texto = ''.join(
+        c for c in unicodedata.normalize('NFD', texto)
+        if unicodedata.category(c) != 'Mn' or c in 'ñÑ'
+    )
+    return texto
+
 
 # === CONFIGURACIÓN ===
 AUDIO_FILE = "audio.mp3"  # Cambia esto por tu archivo
@@ -38,8 +61,13 @@ download_audio(YOUTUBE_URL, AUDIO_FILE)
 print("Transcribiendo audio...")
 model = whisper.load_model("base")
 result = model.transcribe(AUDIO_FILE)
-text = result["text"]
+text = limpiar_texto(result["text"])
 print("Transcripción:", text)
+
+# Guardar transcripción en un archivo
+with open("transcripcion.txt", "w", encoding="utf-8") as f:
+    f.write(text)
+
 
 # === 2. DESCARGA IMÁGENES ===
 print("Descargando imágenes...")
@@ -50,6 +78,7 @@ for idx, url in enumerate(IMAGE_SEARCH_URLS):
     with open(filename, "wb") as f:
         f.write(r.content)
     image_files.append(filename)
+
 
 # === 3. CREA CLIPS DE IMAGEN CON AUDIO ===
 print("Creando clips...")
