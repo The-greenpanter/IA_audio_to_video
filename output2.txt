@@ -1,0 +1,7 @@
+﻿python : C:\Users\PC\Documents\code\Audio a video\yt_audio_env\Scripts\python.exe: can't open file 'C:\\Users\\PC\\Documents\\code\\code\\Try2.py': [Errno 2] No such file or directory
+At line:1 char:1
++ python code\Try2.py 2>&1 | Out-File -FilePath output2.txt -Encoding u ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (C:\Users\PC\Doc...le or directory:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
